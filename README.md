@@ -34,7 +34,7 @@ As I work toward my goal of becoming a data scientist, I'm committed to continuo
 Statistical Analysis and Data Visualization
 
 💻 **Skills**
-- Languages & Tools: Python, SQL, Spark, Pandas, Numpy, Scikit-Learn, TensorFlow,
+- Languages & Tools: Python, SQL, Spark, Pandas, Numpy, Scikit-Learn, TensorFlow
 - Data Visualization: Matplotlib, Seaborn
 - Frameworks: Flask (for deploying ML models)
 - Workflow: Git, Jupyter Notebooks, Google Colab
