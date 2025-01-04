@@ -21,10 +21,7 @@ Aspiring Data Scientist | Machine Learning Enthusiast | Passionate about Data-Dr
 
 an aspiring data scientist with a strong foundation in computer science and a deep interest in data-driven problem-solving. My background includes experience in machine learning, neural network, and data visualization, and I'm constantly looking to expand my skills in these areas.
 
-My current focus is on developing predictive models, exploring the potential of large language models, and deploying applications that can solve real-world problems. To make my projects accessible and interactive, I use Flask to deploy machine learning models as web applications, bridging the gap between technical solutions and practical use.
-
-As I work toward my goal of becoming a data scientist, I'm committed to continuous learning and taking on challenges that push my understanding further.
-
+My current focus is on developing predictive models, exploring the potential of large language models, and deploying applications that can solve real-world problems. 
 🔍 **Areas of Interest:**
 - Data Science and Machine Learning
 - Natural Language Processing (NLP)
