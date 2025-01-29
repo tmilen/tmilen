@@ -40,7 +40,7 @@ Statistical Analysis and Data Visualization
 🚀 **Projects**
 
 - [DaBlog](https://github.com/tmilen/python-web-Dablog): A simple web blog built with Python and Flask where users can add and view blog entries. This project demonstrates basic CRUD operations and web application structure using Flask.
-- - [Adverse Food Events Analysis](https://github.com/tmilen/CAERSDataAnalysis): An EDA project focused on analyzing adverse food event reports using Python and Streamlit. 
+- [Adverse Food Events Analysis](https://github.com/tmilen/CAERSDataAnalysis): An EDA project focused on analyzing adverse food event reports using Python and Streamlit. 
 
 
 📫 **Connect with Me**
