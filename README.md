@@ -32,10 +32,10 @@ My current focus is on developing predictive models, exploring the potential of 
 Statistical Analysis and Data Visualization
 
  💻 **Skills**
-- Languages & Tools: Python, SQL, Spark, Pandas, Numpy, Scikit-Learn, TensorFlow
+- Languages: Python, Java, C++, SQL (NoSQL, PostgreSQL)
 - Data Visualization: Matplotlib, Seaborn
-- Frameworks: Flask (for deploying ML models)
-- Workflow: Git, Jupyter Notebooks, Google Colab
+- Libraries & Frameworks: Flask, Streamlit, Spark, Hadoop, Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch
+- Workflow Tools: Git, VS code, Jupyter Notebook, Google Colab
 
 
 ## 🔗 Connect with Me
