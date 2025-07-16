@@ -25,6 +25,7 @@ My current focus is on developing predictive models, exploring the potential of 
 
  🔍 **Areas of Interest:**
 - Data Science and Machine Learning
+- Computer Vision
 - Natural Language Processing (NLP)
 - Big Data and Data Engineering
      - Data Cleaning and Preparation
