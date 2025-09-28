@@ -30,10 +30,10 @@ My current focus is on developing predictive models, exploring the potential of 
 - Big Data and Data Engineering
      - Data Cleaning and Preparation
      - Feature Engineering    
-Statistical Analysis and Data Visualization
+- Statistical Analysis and Data Visualization
 
  💻 **Skills**
-- Languages: Python, Java, C++, SQL (NoSQL, PostgreSQL)
+- Languages: Python, Java, C++, SQL (NoSQL, PostgreSQL, Oracle, PL/SQL)
 - Data Visualization: Matplotlib, Seaborn
 - Libraries & Frameworks: Flask, Streamlit, Spark, Hadoop, Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch
 - Workflow Tools: Git, VS code, Jupyter Notebook, Google Colab
