@@ -33,7 +33,7 @@ My current focus is on developing predictive models, exploring the potential of 
 - Statistical Analysis and Data Visualization
 
  💻 **Skills**
-- Languages: Python, Java, C++, SQL (NoSQL, PostgreSQL, Oracle, PL/SQL)
+- Languages: Python, Java, C++, SQL (NoSQL, PostgreSQL, Oracle, MongoDB, PL/SQL)
 - Data Visualization: Matplotlib, Seaborn
 - Libraries & Frameworks: Flask, Streamlit, Spark, Hadoop, Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch
 - Workflow Tools: Git, VS code, Jupyter Notebook, Google Colab
