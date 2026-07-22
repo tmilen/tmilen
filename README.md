@@ -19,9 +19,9 @@ Aspiring Data Scientist | Machine Learning Enthusiast | Passionate about Data-Dr
 
 🌟 **About Me**
 
-a freshly graduated student with a strong foundation in computer science and a deep interest in data-driven problem-solving. My background includes experience in machine learning, neural network, and data visualization, and I'm constantly looking to expand my skills in these areas.
+A Junior Data Engineer with a strong foundation in Computer Science and a passion for exploring how data can be transformed into meaningful solutions. My journey spans enterprise data engineering, Data Governance, and Master Data Management (MDM) in the banking sector, alongside hands-on experience in machine learning, neural networks, and data-driven applications.
 
-My current focus is on developing predictive models, exploring the potential of large language models, and deploying applications that can solve real-world problems. 
+Currently, I am focused on building reliable data systems, exploring advancements in AI and machine learning, and continuously expanding my knowledge in modern data technologies to create solutions that address real-world challenges.
 
  🔍 **Areas of Interest:**
 - Data Science and Machine Learning
@@ -33,11 +33,12 @@ My current focus is on developing predictive models, exploring the potential of 
 - Statistical Analysis and Data Visualization
 
  💻 **Skills**
-- Languages: Python, Java, C++, SQL (NoSQL, PostgreSQL, Oracle, MongoDB, PL/SQL)
-- Data Visualization: Matplotlib, Seaborn
-- Libraries & Frameworks: Flask, Streamlit, Spark, Hadoop, Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch
-- Workflow Tools: Git, VS code, Jupyter Notebook, Google Colab
-
+Databases: Microsoft SQL Server, PostgreSQL, Oracle Database, MongoDB
+Languages: Python, SQL, Java, C++
+Data Engineering: ETL, Data Modeling, Data Governance, Master Data Management (MDM), Data Quality
+AI & Machine Learning: Machine Learning, Deep Learning, Computer Vision, NLP
+Libraries & Frameworks: Pandas, NumPy, Scikit-learn, TensorFlow, Spark, Hadoop, Flask, Streamlit
+Tools & Platforms: Microsoft Fabric, SSMS, Oracle SQL Developer, Git, VS Code, Jupyter Notebook, Google Colab
 
 ## 🔗 Connect with Me
 
